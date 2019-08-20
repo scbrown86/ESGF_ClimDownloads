@@ -15,7 +15,8 @@ The scripts generated will automatically create a directory structure similar to
 
 For more detailed usage instructions see https://www.earthsystemcog.org/projects/cog/doc/wget
 
-## URL's (#URL)
+## URL's 
+(#URL)
 #### PR (Precipitation)
 https://esgf-node.llnl.gov/esg-search/wget?distrib=true&latest=true&query=pr&download_structure=project,experiment,variable,model,ensemble&project=CMIP5&experiment=historical&experiment=rcp26&experiment=rcp45&experiment=rcp60&experiment=rcp85&experiment=piControl&cf_standard_name=precipitation_flux&variable=pr&time_frequency=mon&realm=atmos&model=ACCESS1.3&model=BCC-CSM1.1&model=CCSM4&model=CESM1(CAM5)&model=CNRM-CM5&model=CSIRO-Mk3.6.0&model=CanESM2&model=GFDL-CM3&model=GISS-E2-H&model=GISS-E2-R&model=HadGEM2-CC&model=HadGEM2-ES&model=INM-CM4&model=IPSL-CM5A-LR&model=IPSL-CM5A-MR&model=MIROC-ESM&model=MIROC5&model=MPI-ESM-LR&model=MRI-CGCM3&model=NorESM1-M&limit=10000
 
