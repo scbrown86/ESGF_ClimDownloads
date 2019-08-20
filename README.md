@@ -9,20 +9,9 @@ For help running the scripts the `-h` command can be appended as below:`bash wge
 
 The scripts generated will automatically create a directory structure similar to the one below:
 
-   `CMIP5
-   
-       \---Scenario
-       
-           \---Variable
-               
-               \---Model
-                   
-                   \---Realisation
-                       
-                       \---ts_Amon_CCSM4_rcp85_r1i1p1_200601-210012.nc`
+`/CMIP5/Scenario/Variable/Model/Realisation/`
 
 ![CMIP5 directory structure](/DirStructure.PNG?raw=true "CMIP5 directory structure")
-
 
 For more detailed usage instructions see https://www.earthsystemcog.org/projects/cog/doc/wget
 
