@@ -1,7 +1,7 @@
 # ESGF climate downloads
 URL's for generating bash script for bulk downloads of climate data from ESGF
 
-Paste the below URL's into a browser to generate and download a Wget script which can be used for downloading data from ESGF servers. Before running the scripts you **must** be registered with on the the ESGF data portals - e.g. https://esgf-node.llnl.gov/projects/esgf-llnl/.
+Paste the below URL's into a browser to generate and download a Wget script which can be used for downloading data from ESGF servers. Before running the scripts you **must** be registered with one the the ESGF data portals - e.g. https://esgf-node.llnl.gov/projects/esgf-llnl/.
 
 The file name wget-############.sh of the downloaded script begins with wget- followed by a time stamp, a number and the extension .sh. The script is a UNIX Shell script. Once the file is downloaded, data can be retrieved by opening up a terminal window and typing the following: `bash wget-##############.sh`
 
